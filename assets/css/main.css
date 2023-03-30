@@ -10,8 +10,8 @@
 /*
 	To change color, find/replace all instance of colors below:
 
-		Right panel color: #436370
-		button border color(lighter): #4d7280
+		Right panel color: #528ba3
+		button border color(lighter): #7db1c7
 		Link hover over highlight color(lighter): #80a5b3
 		Social share color(lightest): bfbfbf;
 */
@@ -1587,7 +1587,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #436370 !important;
+			color: #528ba3 !important;
 		}
 
 	strong, b {
@@ -1739,7 +1739,7 @@
 	}
 
 	header.major h2 {
-		color: #436370;
+		color: #528ba3;
 		font-size: 3.5em;
 	}
 
@@ -1802,7 +1802,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #436370;
+			border-color: #528ba3;
 		}
 
 	.select-wrapper {
@@ -1912,7 +1912,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #436370;
+			border-color: #528ba3;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2105,7 +2105,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #436370;
+					background: #528ba3;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2392,7 +2392,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #436370;
+			background-color: #528ba3;
 			color: #ffffff !important;
 		}
 
@@ -2462,7 +2462,7 @@
 /* Header */
 
 	#header {
-		background: #436370;
+		background: #528ba3;
 		color: #d6f5f5;
 		height: 100%;
 		position: fixed;
@@ -2536,7 +2536,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #4d7280;
+				border-top: solid 2px #7db1c7;
 				display: block;
 				padding: 0;
 			}
@@ -2555,7 +2555,7 @@
 
 					#header > nav ul li a.active {
 						background: #fff;
-						color: #436370 !important;
+						color: #528ba3 !important;
 					}
 
 				#header > nav ul li:first-child {
@@ -2837,7 +2837,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #436370;
+						background: #528ba3;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
